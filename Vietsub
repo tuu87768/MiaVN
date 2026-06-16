@@ -101,6 +101,25 @@
                                                         ]
                                           }
                            },
+                     "6":  {
+                               "title":  "Chapter 6 - Premonition",
+                               "volume":  "1",
+                               "last_updated":  1769951425,
+                               "groups":  {
+                                              "ReMiA":  [
+                                                            "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_006/114.jpeg",
+                                                            "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_006/115.jpeg",
+                                                            "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_006/116.jpeg",
+                                                            "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_006/117.jpeg",
+                                                            "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_006/118.jpeg",
+                                                            "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_006/119.jpeg",
+                                                            "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_006/120.jpeg",
+                                                            "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_006/121.jpeg",
+                                                            "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_006/122.jpeg",
+                                                            "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_006/123.jpeg"
+                                                        ]
+                                          }
+                           },
                     "72":  {
                                 "title":  "Chapter 72 - Cửa sổ đến thần thoại",
                                 "volume":  "15",
@@ -136,37 +155,6 @@
                                 "groups":  {
                                                "MiaVN":  [
                                                              "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/134.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/135.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/136.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/137.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/138.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/139.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/140.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/141.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/142.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/143.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/144.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/145.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/146.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/147.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/148.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/149.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/150.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/151.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/152.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/153.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/154.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/155.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/156.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/157.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/158.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/159.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/160.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/161.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/162.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/163.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/164.jpeg",
-                                                             "https://pub-08d3df0b531149a1830a898bc8e2903c.r2.dev/chapter_032/165.jpeg"
                                                          ]
                                            }
                             }
