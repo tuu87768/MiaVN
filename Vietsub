@@ -6,7 +6,7 @@
     "cover":  "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/cover.jpeg",
     "chapters":  {
                      "66.7":  {
-                               "title":  "Chapter 66.7 - Side Story 6 - Riko",
+                               "title":  "Chapter 66.7 - Side Story 5 - Riko",
                                "volume":  "13",
                                "last_updated":  1781948760,
                                "groups":  {
@@ -98,6 +98,30 @@
                                                             "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/69/6920.jpg",
                                                             "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/69/6921.jpg",
                                                             "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/69/6922.jpg"
+                                                        ]
+                                          }
+                           },
+                  "69.5":  {
+                               "title":  "Chapter 69.5 - Phụ lục truyện Volume 13",
+                               "volume":  "13",
+                               "last_updated":  1781978580,
+                               "groups":  {
+                                              "MiaVN":  [
+                                                            "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/695/1.png",
+                                                            "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/695/2.png",
+                                                            "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/695/3.png",
+                                                            "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/695/4.png",
+                                                            "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/695/5.png",
+                                                            "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/695/6.png",
+                                                            "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/695/7.png",
+                                                            "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/695/8.png",
+                                                            "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/695/9.png",
+                                                            "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/695/10.png",
+                                                            "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/695/11.png",
+                                                            "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/695/12.png",
+                                                            "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/695/13.png",
+                                                            "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/695/14.png",
+                                                            "https://pub-b76e8aa3a6f44e57bd2f8be3e2867a8c.r2.dev/695/15.png"
                                                         ]
                                           }
                            },
